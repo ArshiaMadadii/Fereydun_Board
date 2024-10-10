@@ -1,2 +1,5 @@
-Record=TopLevelDocument|FileName=POWER.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=POWER.SchDoc|FileName=UI.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=ADC&Sensor&Relay.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ADC&Sensor&Relay.SchDoc|FileName=GSM.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ADC&Sensor&Relay.SchDoc|FileName=MCU_STM32F103C8T6.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ADC&Sensor&Relay.SchDoc|FileName=POWER.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ADC&Sensor&Relay.SchDoc|FileName=UI.SchDoc|SheetNumber=2
