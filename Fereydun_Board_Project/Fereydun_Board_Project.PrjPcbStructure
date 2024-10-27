@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=ADC&Sensor&Relay.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=ADC&Sensor&Relay.SchDoc|FileName=Communications.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ADC&Sensor&Relay.SchDoc|FileName=MCU_F103VCT6.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ADC&Sensor&Relay.SchDoc|FileName=MCU_STM32F103C8T6.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ADC&Sensor&Relay.SchDoc|FileName=POWER.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ADC&Sensor&Relay.SchDoc|FileName=UI.SchDoc|SheetNumber=5
